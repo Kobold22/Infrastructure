@@ -10,4 +10,4 @@ services:
 
 secrets:
   newt-config:
-    file: ./newt-config.secret
+    file: ../../newt-config.secret
